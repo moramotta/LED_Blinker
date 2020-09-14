@@ -9,7 +9,7 @@
 
 */
 
-#declare LED 3   //grüne LED an Pin 3 
+#define LED 3   //grüne LED an Pin 3 
 
 void setup()
 {
